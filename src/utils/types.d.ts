@@ -3,5 +3,5 @@ declare type Article = {
     title?: string;
     content?: string;
     description?: string;
-    urlToImage?: string
+    urlToImage?: string | null
 }
