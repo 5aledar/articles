@@ -1,5 +1,4 @@
 import ArticleCard from '../components/ArticleCard';
-import articles from '../../data.json'
 import Navbar from '../components/Navbar';
 import data from '../../data.json'
 const Articles = () => {
