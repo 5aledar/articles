@@ -1,4 +1,3 @@
-import React from 'react'
 import { useFetchArticles } from '../hooks/useFetchArticles'
 import ArticleCard from '../components/ArticleCard';
 const Articles = () => {

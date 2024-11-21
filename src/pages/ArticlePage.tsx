@@ -1,4 +1,3 @@
-import React from 'react'
 import { useParams } from 'react-router-dom'
 import { useFetchArticles } from '../hooks/useFetchArticles'
 const ArticlePage = () => {
